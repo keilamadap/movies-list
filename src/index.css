@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+* {
+  font-family: Quicksand;
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  background-color: #e0dcb8;
+  color: black;
+}
+
+.navbar{
+  background-color: white;
+}
+
+a{
+  text-decoration: none;
+  color: #f7d354;
+  transition: 0.5s;
+}
+
+a:hover{
+color: #d4c48e;
+}
+

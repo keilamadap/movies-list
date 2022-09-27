@@ -1,0 +1,74 @@
+.movie-page{
+
+    color: #40957f;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 2rem auto;
+
+}
+.movie-page svg {
+    
+    font-size: 1.5rem;
+    color: #ffb350;
+}
+.movie-page .movie-card {
+    text-align: center;
+    
+}
+.movie-card .movie-card img,
+.movie-page .movie-card h2,
+.movie-page .movie-card p {
+    margin-bottom: 0.5rem;
+    
+}
+
+.movie-page .movie-card p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    border: 1px solid;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    
+}
+.info {
+  
+    margin-bottom: 1.5rem;
+
+}
+
+.info h3 {
+    
+    margin-bottom: 1rem;
+    align-items: center;
+    gap: 0.5rem;
+  
+}
+
+.description p{
+    
+    line-height: 1.4rem;
+}
+
+.description {
+    margin-bottom: 5rem;
+}
+
+.voltar {
+    background-color: #f1ae2b;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    border-radius: 4px;
+    margin-left: 120%;
+    color: #453c5c;
+    font-weight: bold;
+}
