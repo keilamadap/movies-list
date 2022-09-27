@@ -1,2 +1,2 @@
 # vite-project
- Practing routes using vite!
+Praticando rotas no react vite! 
